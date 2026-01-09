@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-标志；徽标=“http://EPG。51 zmt。顶:8000/tb1/CCTV/CCTV 16。巴布亚新几内亚" tvg-id="7249" tvg-name="CCTV16" group-title="央视",CCTV奥林匹克频道
+http://192.168.2.1:1111/22.ts
+https://github.com/xiaoyu528/IOTV/blob/main/A.m3u#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视",CCTV奥林匹克频道
+http://192.168.2.1:1111/22.ts
